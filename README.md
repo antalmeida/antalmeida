@@ -1,5 +1,8 @@
 ## Hi there 👋
+## ⭐ Repositórios recomendados
 
+- [Arduino IDE](https://github.com/arduino/arduino-ide) — ambiente de programação para placas Arduino.
+- [MakeCode para micro:bit](https://github.com/microsoft/pxt-microbit) — editor para programar o micro:bit com blocos ou JavaScript.
 <!--
 **antalmeida/antalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
