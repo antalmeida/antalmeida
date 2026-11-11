@@ -58,3 +58,15 @@ Here are some ideas to get you started:
 
 - [Arduino IDE](https://github.com/arduino/arduino-ide) — ambiente de programação para placas Arduino.
 - [MakeCode para micro:bit](https://github.com/microsoft/pxt-microbit) — editor para programar o micro:bit com blocos ou JavaScript.
+
+## 📚 Repositórios para aprender e ensinar
+
+| Área | Repositório | O que podes explorar |
+| --- | --- | --- |
+| C++ | [The Algorithms — C++](https://github.com/TheAlgorithms/C-Plus-Plus) | Exemplos de algoritmos e estruturas de dados implementados em C++. |
+| Python | [Microsoft — Python for Beginners](https://github.com/microsoft/c9-python-getting-started) | Código de exemplo para acompanhar um curso de iniciação a Python. |
+| HTML | [MDN — Learning Area](https://github.com/mdn/learning-area) | Exemplos para praticar a estrutura de páginas, formulários e outros elementos HTML. |
+| CSS | [The Odin Project — CSS Exercises](https://github.com/TheOdinProject/css-exercises) | Exercícios de seletores, modelo de caixa e Flexbox. |
+| Protocolos TCP/IP | [Beej’s Guide to Network Programming](https://github.com/beejjorgensen/bgnet) | Guia com exemplos em C para explorar sockets e comunicação através de TCP e UDP. |
+| Educação | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Catálogo de livros e outros materiais gratuitos de programação, com recursos em português. |
+
